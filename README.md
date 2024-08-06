@@ -1,4 +1,5 @@
 Entrega de projeto para conclusão de curso
+Após relatos de cobranças exagerads para a realização das tarefas, preferi apenas enviar o coteúdo como esta.
 
 # 📊 Previsão de Estoque Inteligente na AWS com [SageMaker Canvas](https://aws.amazon.com/pt/sagemaker/canvas/)
 
